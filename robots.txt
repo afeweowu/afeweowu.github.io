@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://afeweowu.github.io/MtY/sitemap_index.txt
+Sitemap: https://afeweowu.github.io/Trc/sitemap_index.txt
+Sitemap: https://afeweowu.github.io/ryN/sitemap_index.txt
+Sitemap: https://afeweowu.github.io/tIj/sitemap_index.txt
